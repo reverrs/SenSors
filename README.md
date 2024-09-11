@@ -29,9 +29,7 @@ All sensors of the Android device with their readings. It was created for inform
 <div align="center">
 
 <img width="125" height="250" 
-src="./docs/Sensors_scr1_coldcat.sl.jpg" alt="Screenshot 1" title="Скриншот 1">
-
-<img width="125" height="250" src="./docs/Sensors_scr2_coldcat.sl.jpg" alt="Screenshot 2" title="Скриншот 2">
+src="./docs/Sensors_scr1_coldcat.sl.jpg" alt="Screenshot 1" title="Скриншот 1"> <img width="125" height="250" src="./docs/Sensors_scr2_coldcat.sl.jpg" alt="Screenshot 2" title="Скриншот 2">
 
 <!--
 <img width="125" height="250" 
